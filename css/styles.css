@@ -1,0 +1,40 @@
+
+        body{
+            background-color:#9ad0d3;
+        }
+        hr {
+            border-style:none;
+            border-color: rgb(218, 172, 46);
+            border-top-style: dotted;
+            height: 0px;
+            border-width: 10px;
+            width: 30
+        }
+        h1{
+           color: green;
+        }
+        h2{
+            color: green;
+        }
+
+
+
+
+        .ss{
+            height: 100px;
+            width: 100px;
+        }
+        .hh{
+            height: 100px;
+            width: 100px;
+        }
+        .sp{
+            height: 100px;
+            width: 100px;
+        }
+        .yy{
+            height: 100px;
+            width: 100px;
+        }
+                                
+
